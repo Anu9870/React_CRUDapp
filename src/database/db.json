@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Rohit Jain",
+      "username": "rohitj",
+      "email": "rohit09@gmail.com",
+      "phone": "8957841567",
+      "id": "1"
+    },
+    {
+      "id": "b782",
+      "name": "Animesh",
+      "username": "ani",
+      "email": "anim@gmail.com",
+      "phone": "8955423687"
+    },
+    {
+      "id": "8ced",
+      "name": "Rahul Minhas",
+      "username": "rahulm",
+      "email": "minhas@yahoo.com",
+      "phone": "699416311313"
+    },
+    {
+      "id": "9b9d",
+      "name": "Sidharth Kapoor",
+      "username": "sidart",
+      "email": "sid0011@gmail.com",
+      "phone": "88899662332"
+    },
+    {
+      "id": "14d3",
+      "name": "Kunal Dhiman",
+      "username": "kdbros",
+      "email": "kb5432@gmail.com",
+      "phone": "7845126598"
+    }
+  ]
+}
